@@ -52,7 +52,7 @@
 - DVMT Pre-Allocated(iGPU Memory): 64MB
 - SATA Mode: AHCI
 
-### HWM变频
+### HWP变频
 
 Kexts中的`CPUFriendDataProvider.kext`为9600K专用文件，如果你使用的是其它型号的CPU，需要自行更换
 
