@@ -51,6 +51,7 @@
 - 操作系统类型：Windows 8.1/10 UEFI Mode
 - DVMT Pre-Allocated(iGPU Memory): 64MB
 - SATA Mode: AHCI
+- ErP：S4+S5
 
 ### HWP变频
 
