@@ -9,7 +9,7 @@
 - [x] 隔空投送 / 接力 / 随航
 - [x] FaceTime / iMessage
 - [x] 睿频 / HWP 变频 / 原生电源管理
-- [x] 睡眠 / 键盘、鼠标唤醒（偶尔需要二次输入才能唤醒显示器，待解决）
+- [x] 睡眠 / 键盘、鼠标唤醒
 - [x] 其他白果功能（99%）
 
 ## 硬件
@@ -59,8 +59,8 @@ Kexts中的`CPUFriendDataProvider.kext`为9600K专用文件，如果你使用的
 
 ### USB映射
 
-该主板我用起来暂时还没有发现USB问题，唤醒功能正常，因此没有做USB端口映射，如果有需要的话请自行映射
-
+映射端口如图所示，应该可以满足绝大多数情况，如果和你的USB端口情况不符，请自行映射替换USBPorts.kext
+![](https://raw.githubusercontent.com/huzhanfei/ASUS-PRIME-Z370M-PLUS-II-OPENCORE-EFI/master/images/USBPorts.png)
 
 ### 修改SMBIOS
 自行生成SMBIOS替换图中所示内容：
