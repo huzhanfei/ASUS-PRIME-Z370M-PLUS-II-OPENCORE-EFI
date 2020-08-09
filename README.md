@@ -1,5 +1,5 @@
 # ASUS-PRIME-Z370M-PLUS-II-OPENCORE-EFI
-华硕ASUS Prime Z370M-PLUS II 黑苹果Hackintosh OpenCore EFI文件，支持核显+独显共同硬解，[OpenCore](https://github.com/acidanthera/OpenCorePkg)版本：0.5.9
+华硕ASUS Prime Z370M-PLUS II 黑苹果Hackintosh OpenCore EFI文件，支持核显+独显共同硬解，[OpenCore](https://github.com/acidanthera/OpenCorePkg)版本：0.6.0
 
 ## 功能
 
@@ -22,7 +22,7 @@
 | 主板               | 华硕Asus Prime Z370m-PLUS II                           |
 | 显卡               | 迪兰恒进RX 580 8G战神                                  |
 | 硬盘               | HP EX900 M.2 NVMe 250GB                                |
-| 内存               | 英睿达8GB DDR4 2400MHz x 2                             |
+| 内存               | 英睿达8GB DDR4 3200MHz x 4                             |
 | 无线 + 蓝牙        | BCM943602CS（双频1750Mbps + 蓝牙4.2）PCI-E x1 无线网卡 |
 | 机箱 + 电源 + 散热 | 乔思伯V4 + 长城500W + 利民AXP-90I + 利民TF8硅脂        |
 | 显示器             | AOC 2K                                                 |
