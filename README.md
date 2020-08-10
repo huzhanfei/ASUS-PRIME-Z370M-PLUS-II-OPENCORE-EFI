@@ -58,6 +58,14 @@
 - SATA Mode: AHCI
 - ErP：S4+S5
 
+### 核显配置
+
+修改config.plist的 DeviceProperties > Add > PciRoot(0x0)/Pci(0x2,0x0) > AAPL,ig-platform-id值为下面任意一个，均可开启核显满频：
+
+* `0300913E`：适用于有独立显卡，不使用核显驱动显示器，只用作计算。系统报告中不显示核显信息，但可使用核显加速。
+
+* `00009B3E`：适用于没有独立显卡，使用核显驱动显示器，系统报告中显示核显信息（有独立显卡也可使用此配置，但开机速度略慢）
+
 ### HWP变频
 
 Kexts中的`CPUFriendDataProvider.kext`为9600K专用文件，如果你使用的是其它型号的CPU，需要自行更换
