@@ -1,5 +1,5 @@
 # ASUS-PRIME-Z370M-PLUS-II-OPENCORE-EFI
-华硕ASUS Prime Z370M-PLUS II 黑苹果Hackintosh OpenCore EFI文件，支持核显+独显共同硬解，[OpenCore](https://github.com/acidanthera/OpenCorePkg)版本：0.6.0
+华硕ASUS Prime Z370M-PLUS II 黑苹果Hackintosh OpenCore EFI文件，支持核显+独显共同硬解，[OpenCore](https://github.com/acidanthera/OpenCorePkg)版本：0.6.1
 
 ## 功能
 
