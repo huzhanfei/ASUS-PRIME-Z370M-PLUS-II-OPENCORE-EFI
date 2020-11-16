@@ -95,12 +95,14 @@ Kexts中的`CPUFriendDataProvider.kext`为9600K专用文件，如果你使用的
 ![](https://raw.githubusercontent.com/huzhanfei/ASUS-PRIME-Z370M-PLUS-II-OPENCORE-EFI/master/images/AirDrop.png)
 
 ## 更新记录
-### 2020-08-11
-- 升级AppleALC 1.5.1
-- 升级Lilu 1.4.6
-- 升级WhateverGreen 1.4.1
-- 升级CPUFriend 1.2.1
-- 升级VirtualSMC 1.1.5
+### 2020-11-17
+- 升级OpenCore 0.6.3
+- 升级AppleALC 1.5.4
+- 升级Lilu 1.4.9
+- 升级WhateverGreen 1.4.4
+- 升级VirtualSMC 1.1.8
+- 升级CPUFriend 1.2.2
+- 升级IntelMausiEthernet 1.0.4
 
 ### 2020-09-22
 - 升级OpenCore 0.6.1
@@ -108,3 +110,10 @@ Kexts中的`CPUFriendDataProvider.kext`为9600K专用文件，如果你使用的
 - 升级Lilu 1.4.7
 - 升级WhateverGreen 1.4.2
 - 升级VirtualSMC 1.1.6
+
+### 2020-08-11
+- 升级AppleALC 1.5.1
+- 升级Lilu 1.4.6
+- 升级WhateverGreen 1.4.1
+- 升级CPUFriend 1.2.1
+- 升级VirtualSMC 1.1.5
