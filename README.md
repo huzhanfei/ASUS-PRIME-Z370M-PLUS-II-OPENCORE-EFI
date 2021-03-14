@@ -1,5 +1,5 @@
 # ASUS-PRIME-Z370M-PLUS-II-OPENCORE-EFI
-华硕ASUS Prime Z370M-PLUS II 黑苹果Hackintosh OpenCore EFI文件，支持核显+独显共同硬解，[OpenCore](https://github.com/acidanthera/OpenCorePkg)版本：0.6.1
+华硕ASUS Prime Z370M-PLUS II 黑苹果Hackintosh OpenCore EFI文件，支持核显+独显共同硬解，[OpenCore](https://github.com/acidanthera/OpenCorePkg)版本：0.6.7
 
 ## 功能
 
@@ -95,6 +95,14 @@ Kexts中的`CPUFriendDataProvider.kext`为9600K专用文件，如果你使用的
 ![](https://raw.githubusercontent.com/huzhanfei/ASUS-PRIME-Z370M-PLUS-II-OPENCORE-EFI/master/images/AirDrop.png)
 
 ## 更新记录
+- 升级OpenCore 0.6.7
+- 升级AppleALC 1.5.8
+- 升级Lilu 1.5.1
+- 升级WhateverGreen 1.4.8
+- 升级VirtualSMC 1.2.1
+- 升级CPUFriend 1.2.3
+- 升级IntelMausiEthernet 1.0.5
+
 ### 2020-11-17
 - 升级OpenCore 0.6.3
 - 升级AppleALC 1.5.4
